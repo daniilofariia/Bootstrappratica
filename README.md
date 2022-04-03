@@ -1,0 +1,2 @@
+# Bootstrappratica
+estudando bootstrap
